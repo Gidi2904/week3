@@ -1,0 +1,18 @@
+div{
+    border: 1em solid blue;
+    margin: 20px;
+    height: 300px;
+}
+.Japan{
+    background-image: radial-gradient(circle,red 30%,white 30%) ;
+}
+
+.Nigeria{
+    background-image: linear-gradient(90deg, green 35%, white 35%, white 65%, green 65%);
+}
+.France{
+    background-image: linear-gradient(90deg, #002654 35%, white 35%, white 65%, red 65%);
+}
+.Gambia{
+    background-image: linear-gradient(180deg, red 27%, white 27%, white 33%, rgb(9, 9, 38) 33%,  rgb(9, 9, 38) 62%, white 62%,white 68%,  green 27%);
+}
