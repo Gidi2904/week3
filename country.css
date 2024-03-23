@@ -16,3 +16,16 @@ div{
 .Gambia{
     background-image: linear-gradient(180deg, red 27%, white 27%, white 33%, rgb(9, 9, 38) 33%,  rgb(9, 9, 38) 62%, white 62%,white 68%,  green 27%);
 }
+.China{
+    background-color: red;
+    background-image: url(./media/gstar.png),url(./media/gstar.png),url(./media/gstar.png),url(./media/gstar.png),url(./media/gstar.png);
+    background-repeat: no-repeat;
+    background-size: 100px, 30px, 30px,30px,30px;
+    background-position: 30px 30px,100px 20px,120px 40px;
+    
+}
+.Ghana{
+    background-image: linear-gradient(90deg, red 35%, yellow 35%, yellow 65%, green 65%);
+    background-position: center;
+    background-image: url(./media/black\ star.png);
+}
